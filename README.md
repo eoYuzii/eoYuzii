@@ -48,9 +48,17 @@
 
 ### 📊 Diagnóstico_de_Atividade
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eoYuzii&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff&bg_color=00000000" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&bg_color=00000000" height="150" alt="Langs" />
-</div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=eoYuzii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" 
+    height="165" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" 
+    height="165" 
+    alt="Top Languages"
+  />
+  </div>
 
 <br>
 
