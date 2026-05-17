@@ -49,15 +49,9 @@
 ### 📊 Diagnóstico_de_Atividade
 <div align="center">
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=eoYuzii&theme=highcontrast&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eoYuzii&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff&bg_color=00000000" height="150" alt="Stats" />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&bg_color=00000000" height="150" alt="Langs" />
 
 </div>
 
