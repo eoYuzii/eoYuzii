@@ -1,18 +1,7 @@
 
 <div align="center">
   <br>
-  <img 
-  src="https://github.com/eoYuzii.png" 
-  width="130px" 
-  height="130px" 
-  style="
-    border-radius: 50%;
-    border: 2px solid #fff;
-    filter: grayscale(1);
-    box-shadow: 5px 5px 0px #fff;
-    object-fit: cover;
-  "
-/>
+  <img src="https://github.com/eoYuzii.png" width="130px" style="border-radius: 50%; border: 2px solid #fff; filter: grayscale(1); box-shadow: 5px 5px 0px #fff;" />
   
   <br><br>
 
